@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PokéRunner",
+  "description": "An endless runner game powered by the PokéAPI. Jump over obstacles, score points, and catch them all in this retro-style React canvas game.",
+  "requestFramePermissions": []
+}
